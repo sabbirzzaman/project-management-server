@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$UGD4LzHEgcOJ3n2URvslRO5Y/DSKpGOZDdlcIWWobGWDy0WKJ3vfC",
+      "name": "Testing mail",
+      "avatar": "https://i.ibb.co/S3nDGgs/avatar-1.png",
+      "id": 1
+    },
+    {
+      "email": "haha@haha.com",
+      "password": "$2a$10$HRvg04J8ICtdjxwj3pKEGuiBWB/lZeWq31P/XQnt1JEYzkowkwqQe",
+      "name": "Haha haha",
+      "avatar": "https://i.ibb.co/5jTNNnT/avatar-2.png",
+      "id": 2
+    },
+    {
+      "email": "sztonmoy7@gmail.com",
+      "password": "$2a$10$wbNb0/C/Vt6/UdGEYhIISO8q03lCc0mSnQsJVqlzsVg6yQGnEo5BO",
+      "name": "Sabbir zzaman",
+      "avatar": "https://i.ibb.co/CH4R2Nv/avatar-3.png",
+      "id": 3
+    },
+    {
+      "email": "hello@world.com",
+      "password": "$2a$10$wbNb0/C/Vt6/UdGEYhIISO8q03lCc0mSnQsJVqlzsVg6yQGnEo5BO",
+      "name": "Hello world",
+      "avatar": "https://i.ibb.co/VpNTyCq/avatar-4.png",
+      "id": 3
+    }
+  ],
+  "teams": [
+    {
+      "team": "design",
+      "title": "A design is a plan or specification for the construction",
+      "color": "red",
+      "email": "sztonmoy7@gmail.com",
+      "date": 1664131584282,
+      "members": [
+        {
+          "email": "sztonmoy7@gmail.com",
+          "name": "Sabbir zzaman",
+          "avatar": "https://i.ibb.co/CH4R2Nv/avatar-3.png",
+          "id": 3
+        },
+        {
+          "email": "test@test.com",
+          "password": "$2a$10$UGD4LzHEgcOJ3n2URvslRO5Y/DSKpGOZDdlcIWWobGWDy0WKJ3vfC",
+          "name": "Testing mail",
+          "avatar": "https://i.ibb.co/S3nDGgs/avatar-1.png",
+          "id": 1
+        },
+        {
+          "email": "haha@haha.com",
+          "password": "$2a$10$HRvg04J8ICtdjxwj3pKEGuiBWB/lZeWq31P/XQnt1JEYzkowkwqQe",
+          "name": "Haha haha",
+          "avatar": "https://i.ibb.co/5jTNNnT/avatar-2.png",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "team": "copyright",
+      "title": "A design is a plan or specification for the construction",
+      "color": "yellow",
+      "email": "sztonmoy7@gmail.com",
+      "date": 1664131599857,
+      "members": [
+        {
+          "email": "sztonmoy7@gmail.com",
+          "name": "Sabbir zzaman",
+          "avatar": "https://i.ibb.co/CH4R2Nv/avatar-3.png",
+          "id": 3
+        },
+        {
+          "email": "test@test.com",
+          "password": "$2a$10$UGD4LzHEgcOJ3n2URvslRO5Y/DSKpGOZDdlcIWWobGWDy0WKJ3vfC",
+          "name": "Testing mail",
+          "avatar": "https://i.ibb.co/S3nDGgs/avatar-1.png",
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "team": "ui",
+      "title": "A design is a plan or specification for the construction",
+      "color": "violet",
+      "email": "sztonmoy7@gmail.com",
+      "date": 1664131884339,
+      "members": [
+        {
+          "email": "sztonmoy7@gmail.com",
+          "name": "Sabbir zzaman",
+          "avatar": "https://i.ibb.co/CH4R2Nv/avatar-3.png",
+          "id": 3
+        }
+      ],
+      "id": 3
+    },
+    {
+      "team": "dev",
+      "title": "Join the Apple Developer Program to reach customers",
+      "color": "red",
+      "email": "test@test.com",
+      "date": 1664134951836,
+      "members": [
+        {
+          "email": "test@test.com",
+          "name": "Testing mail",
+          "avatar": "https://i.ibb.co/S3nDGgs/avatar-1.png",
+          "id": 1
+        },
+        {
+          "email": "sztonmoy7@gmail.com",
+          "password": "$2a$10$wbNb0/C/Vt6/UdGEYhIISO8q03lCc0mSnQsJVqlzsVg6yQGnEo5BO",
+          "name": "Sabbir zzaman",
+          "avatar": "https://i.ibb.co/CH4R2Nv/avatar-3.png",
+          "id": 3
+        }
+      ],
+      "id": 4
+    },
+    {
+      "team": "qa",
+      "title": "Join the Apple Developer Program to reach customers",
+      "color": "yellow",
+      "email": "test@test.com",
+      "date": 1664135569662,
+      "members": [
+        {
+          "email": "test@test.com",
+          "name": "Testing mail",
+          "avatar": "https://i.ibb.co/S3nDGgs/avatar-1.png",
+          "id": 1
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "projects": [
+    {
+      "team": "copyright",
+      "status": "backlog",
+      "color": "yellow",
+      "title": "A design is a plan or specification for the construction",
+      "email": "sztonmoy7@gmail.com",
+      "avatar": "https://i.ibb.co/CH4R2Nv/avatar-3.png",
+      "date": 1664131621113,
+      "id": 1
+    },
+    {
+      "team": "design",
+      "status": "ready",
+      "color": "red",
+      "title": "A design is a plan or specification for the construction",
+      "email": "sztonmoy7@gmail.com",
+      "avatar": "https://i.ibb.co/CH4R2Nv/avatar-3.png",
+      "date": 1664131626425,
+      "id": 2
+    },
+    {
+      "team": "qa",
+      "status": "backlog",
+      "color": "yellow",
+      "title": "Join the Apple Developer Program to reach customers",
+      "email": "test@test.com",
+      "avatar": "https://i.ibb.co/S3nDGgs/avatar-1.png",
+      "date": 1664135591602,
+      "id": 3
+    },
+    {
+      "team": "dev",
+      "status": "doing",
+      "color": "red",
+      "title": "Join the Apple Developer Program to reach customers",
+      "email": "test@test.com",
+      "avatar": "https://i.ibb.co/S3nDGgs/avatar-1.png",
+      "date": 1664135621564,
+      "id": 4
+    }
+  ]
+}

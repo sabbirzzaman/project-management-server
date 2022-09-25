@@ -1,0 +1,16 @@
+{
+    "name": "project-management-server",
+    "description": "Example in memory project management api with json-server by Sabbir Zzaman",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "Sabbir Zzaman",
+    "dependencies": {
+        "json-server": "^0.17.0",
+        "json-server-auth": "^2.1.0",
+        "nodemon": "^2.0.19"
+    }
+}
